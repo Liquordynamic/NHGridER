@@ -1,6 +1,4 @@
-# my-app
-
-An Electron application with React and TypeScript
+# NHGrid Projct - React + Electron Version
 
 ## Recommended IDE Setup
 
